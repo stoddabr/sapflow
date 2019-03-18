@@ -2,4 +2,4 @@
 
 Sap flow project out of OSU OPEnS Lab
 
-Apache License
+doi.org/10.5281/zenodo.2597666
